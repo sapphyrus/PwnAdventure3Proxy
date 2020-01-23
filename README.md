@@ -15,6 +15,7 @@ This is a MITM Proxy for Pwn Adventure 3 written in Ruby. It's still very much a
 - support for injecting forged packets into the game->server or server->game stream
 - entity list
 - very basic aimbot
+- auto pickup drops
 
 Credits (<3):
 
